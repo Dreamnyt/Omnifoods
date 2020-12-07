@@ -334,8 +334,7 @@
     }
 
     .btn-app {
-        float: left;
         text-align: center;
-        width: 50%;
+        display: block;
     }
 }
