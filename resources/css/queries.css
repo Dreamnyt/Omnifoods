@@ -247,7 +247,6 @@
     
     .long-copy {
         width: 100%;
-        margin-left: 0%;
     }
     
     h1 {
@@ -329,5 +328,14 @@
     .hero-text-box a {
         margin-bottom: 5%;
     }
+    
+    .section-features p {
+        margin: 0 1% 0 1%;
+    }
 
+    .btn-app {
+        float: left;
+        text-align: center;
+        width: 50%;
+    }
 }
