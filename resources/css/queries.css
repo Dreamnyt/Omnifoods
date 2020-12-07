@@ -337,4 +337,9 @@
         text-align: center;
         display: block;
     }
+    
+    .works-step p {
+        margin: 0 3%;
+        text-align: center;
+    }
 }
